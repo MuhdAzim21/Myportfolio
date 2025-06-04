@@ -1291,5 +1291,6 @@ section,
 }
 
 .emailfont {
-  font-size: clamp(0.9rem, 0.7vw, 0.9rem);
+  font-size: clamp(0.9rem, 0.5vw, 0.9rem);
 }
+
