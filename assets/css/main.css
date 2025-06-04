@@ -1289,3 +1289,7 @@ section,
     height: 100vh !important;
   }
 }
+
+.emailfont {
+  font-size: clamp(0.6rem, 0.5vw, 1.1rem);
+}
