@@ -1260,7 +1260,6 @@ section,
 
 .modal-body {
   max-height: calc(100vh - 160px);
-  overflow-y: auto; /* Allows scrolling */
   scrollbar-width: none; /* Hides scrollbar in Firefox */
 }
 
